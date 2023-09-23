@@ -10,7 +10,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 * 🌍  I'm based in Morroco
