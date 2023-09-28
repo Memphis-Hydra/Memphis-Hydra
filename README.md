@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=9DBDFF&background=FFFFFF00&center=true&width=500&height=75&lines=Welcome+to+my+Profile;Junior+FrontEnd+Developer;Junior+Android+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=9DBDFF&background=FFFFFF00&center=true&width=500&height=75&lines=Welcome+to+my+Profile;+FrontEnd+Developer;+Android+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h1>Hi 👋 My name is Iliass Khalki</h1>
